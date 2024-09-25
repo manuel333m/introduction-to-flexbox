@@ -1,13 +1,14 @@
 # Introduction-to-flexbox
 
-> One paragraph statement about the project.
+> Project about introduction-to-flexbox.
 
 
-![Static Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=E95420&logoSize=auto&labelColor=white)   ![Static Badge](https://img.shields.io/badge/html%205-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/css%203-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&logoSize=auto&labelColor=white)  ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoSize=auto&labelColor=black) 
+   ![Static Badge](https://img.shields.io/badge/html%205-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/css%203-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&logoSize=auto&labelColor=white)  
 
-![screenshot](./app_screenshot.png)
+![screenshot](./Captura.PNG)
+![screenshot](./Captura.PNG3.PNG)
 
-Additional description about the project and its features.
+ These are the different boxes to understand and introduce the flexbox topic.
 
 ## Built With
 
@@ -42,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Manuel333m**
 
-- GitHub: [@aristides1000](https://github.com/manuel333m)
+- GitHub: [@manuel333m](https://github.com/manuel333m)
 
 
 
